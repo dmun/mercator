@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+* {
+	font-family: 'EB Garamond', serif;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 2em;
+	letter-spacing: -0.02em;
+}
